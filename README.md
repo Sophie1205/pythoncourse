@@ -27,13 +27,6 @@
 - [EX03-06 出生人口數](EX03_06_出生人口數.ipynb)
 - [EX03-07 Tips](EX03_07_Tips.ipynb)
 
-## 05. Web API
-- [EX05-01 Echo Bot](EX05_01_Echo_Bot.ipynb)
-- [EX05-02 Ask Gemini](EX05_02_Ask_Gemini.ipynb)
-- [EX05-03 Reply Multi-type Messages](EX05_03_Reply_Multi_type_Messages.ipynb)
-- [EX05-04 Reply Template Messages](EX05_04_Reply_Template_Messages.ipynb)
-- [EX05-05 Rich Menu]()
-
 ## 04. Machine Learning
 - [EX04-01 汽車車型數值資料轉換](EX04_01_汽車車型數值資料轉換.ipynb)
 - [EX04-02 客戶基本資料編碼]()
@@ -42,3 +35,10 @@
 - [EX04-05 辨識鳶尾花]()
 - [EX04-06 ET Today 新聞標題分類]()
 - [EX04-07 PTT 電影版情感分析]()
+
+## 05. Web API
+- [EX05-01 Echo Bot](EX05_01_Echo_Bot.ipynb)
+- [EX05-02 Ask Gemini](EX05_02_Ask_Gemini.ipynb)
+- [EX05-03 Reply Multi-type Messages](EX05_03_Reply_Multi_type_Messages.ipynb)
+- [EX05-04 Reply Template Messages](EX05_04_Reply_Template_Messages.ipynb)
+- [EX05-05 Rich Menu]()
